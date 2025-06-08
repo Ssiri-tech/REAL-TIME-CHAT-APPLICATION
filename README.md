@@ -27,3 +27,7 @@ JavaScript: To handle actions like sending messages
 Node.js: To run the server (backend)
 
 Socket.IO: To send and receive messages in real-time
+
+output
+
+![Image](https://github.com/user-attachments/assets/7be0d5d3-3a1e-4fbf-b66d-4d3201b6e904)
